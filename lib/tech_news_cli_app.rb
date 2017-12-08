@@ -1,6 +1,4 @@
-require "tech_news_cli_app/version"
+require_relative "../config/environment.rb"
 
 module TechNewsCliApp
-  # Your code goes here...
-  puts "hello"
 end
