@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require_relative '../lib/tech_news_cli'
+require_relative '../lib/tech_news_cli_app'
 
-Tech_News::CLI.new.call
+TechNews::CLI.new.call
