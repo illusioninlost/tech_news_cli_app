@@ -1,4 +1,1 @@
-class TechNews::CLI
-
-
-end
+puts "hello"

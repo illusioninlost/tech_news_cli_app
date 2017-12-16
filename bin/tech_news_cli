@@ -1,6 +1,3 @@
 #!/usr/bin/env ruby
 
-#require_relative '../lib/tech_news_cli_app'
-
-#TechNews::CLI.new.call
-puts "Hello World"
+require_relative '../lib/tech_news_cli_app'
