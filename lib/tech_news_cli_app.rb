@@ -1,6 +1,11 @@
-require_relative "tech_news_cli_app/cli"
-require_relative "tech_news_cli_app/news"
-require_relative "tech_news_cli_app/version"
+require "open-uri"
+require "pry"
+require "nokogiri"
 
-module TechNews
+require_relative "tech_news_cli_app/cli.rb"
+require_relative "tech_news_cli_app/news.rb"
+require_relative "tech_news_cli_app/version.rb"
+
+
+module TechNew
 end

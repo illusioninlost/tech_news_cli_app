@@ -1,2 +1,3 @@
-class TechNews::news
+class TechNews::NEWS
+
 end
