@@ -1,1 +1,2 @@
-puts "hello"
+class TechNews::news
+end
